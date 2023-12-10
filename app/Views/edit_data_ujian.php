@@ -8,7 +8,7 @@
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <style>
         body {
-            background-color: #e9ecef; /* Light gray background */
+            background-color: #e9ecef;
             font-family: 'Open Sans'
         }
 
